@@ -16,3 +16,6 @@ Access to clean energy and waste management is a challenge in many regions. This
 - [Design Docs](docs/02_Preliminary_Design.md)
 - [Bill of Materials](bom/master_bom.xlsx)
 - [CAD (Onshape Links)](cad/onshape_links.txt)
+
+### Research and Trends
+For insights into current biogas technologies, innovations, and global trends, see the [Research and Trends](research/Research_and_Trends.md) document. This section provides background research, references, and analysis that inform the design and deployment of the Modular Biogas Generator.
